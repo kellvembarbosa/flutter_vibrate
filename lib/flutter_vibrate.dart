@@ -12,6 +12,7 @@ enum FeedbackType {
   medium,
   light
 }
+// Update
 
 class Vibrate {
   static const MethodChannel _channel = const MethodChannel('vibrate');
